@@ -1,6 +1,6 @@
 # Detecting Modularity in Deep Neural Networks
 
-Shlomi Hod, Stephen Casper, Daniel Filan, Cody Wild, Andrew Critch, Stuart Russell
+Shlomi Hod*, Stephen Casper*, Daniel Filan*, Cody Wild, Andrew Critch, Stuart Russell
 
 A link to the paper will be provided as soon as it is available on arXiv. Check again in a couple of days. 
 
