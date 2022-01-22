@@ -1,4 +1,4 @@
-# Detecting Modularity in Deep Neural Networks
+#  Quantifying Local Specialization in Deep Neural Networks
 
 Shlomi Hod*, Stephen Casper*, Daniel Filan*, Cody Wild, Andrew Critch, Stuart Russell
 
